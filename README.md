@@ -87,6 +87,146 @@ Mission:
   Empowering Africans with practical digital skills,
   cybersecurity knowledge and AI education.
 ```
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+# 💻 Tech Stack & Tools
+
+## 🛡️ Cybersecurity
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,git,github,vscode"/>
+
+</p>
+
+### 🔐 Security Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20The%20Ripper-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Networking
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DHCP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTP-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTPS-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSH-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FTP-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-blueviolet?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 👨‍💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,github,git,linux"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Operating Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows"/>
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,markdown"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Cloud%20Security-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Forensics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOC%20Operations-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Automation-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20for%20Cybersecurity-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 Core Competencies
+
+| Domain | Skills |
+|---------|--------|
+| 🔐 Cybersecurity | Vulnerability Assessment • Penetration Testing • Web Security • Network Security |
+| 🌐 Networking | TCP/IP • DNS • DHCP • Routing • Switching |
+| 🐧 Linux | Bash • File Systems • Permissions • Automation |
+| 🐍 Programming | Python • Bash • HTML • CSS • JavaScript |
+| 🤖 AI | Prompt Engineering • AI Literacy • Microsoft Copilot • ChatGPT |
+| 📈 Finance | Forex Trading • Technical Analysis • Risk Management |
+| 🎓 Education | Technical Training • Curriculum Development • Mentorship |
+| 🌍 Leadership | Community Building • Public Speaking • Digital Literacy Campaigns |
+
+---
+
+
 # 🚀 Currently Working On
 
 - 🔐 Building Cybersecurity Labs
