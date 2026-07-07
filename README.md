@@ -106,7 +106,9 @@ Mission:
 - 🧪 Practicing on TryHackMe & Hack The Box
 
 - 🎤 Delivering Cybersecurity Workshops & Public Talks
-- # 💼 Areas of Expertise
+
+- 
+ # 💼 Areas of Expertise
 
 🛡️ Cybersecurity
 
