@@ -87,3 +87,22 @@ Mission:
   Empowering Africans with practical digital skills,
   cybersecurity knowledge and AI education.
 ```
+# 🚀 Currently Working On
+
+- 🔐 Building Cybersecurity Labs
+
+- 🛡️ Training Future Cybersecurity Professionals
+
+- 🤖 AI for Cybersecurity Automation
+
+- 🌍 Digital Literacy Campaigns
+
+- 📹 Creating Cybersecurity Content on YouTube
+
+- 📚 Building Open Source Security Projects
+
+- 🐧 Linux Administration & Automation
+
+- 🧪 Practicing on TryHackMe & Hack The Box
+
+- 🎤 Delivering Cybersecurity Workshops & Public Talks
