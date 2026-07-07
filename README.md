@@ -106,3 +106,34 @@ Mission:
 - 🧪 Practicing on TryHackMe & Hack The Box
 
 - 🎤 Delivering Cybersecurity Workshops & Public Talks
+- # 💼 Areas of Expertise
+
+🛡️ Cybersecurity
+
+🌐 Networking
+
+🐧 Linux Administration
+
+☁️ Cloud Fundamentals
+
+🔎 Digital Forensics
+
+🧠 Threat Intelligence
+
+🎯 Penetration Testing
+
+🕵️ OSINT
+
+📈 Financial Market Analysis
+
+🤖 Artificial Intelligence
+
+💻 Python Automation
+
+📊 Data Analysis
+
+🎓 Technical Training
+
+🎤 Public Speaking
+
+🌍 Community Building
