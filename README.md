@@ -225,53 +225,146 @@ Mission:
 | 🌍 Leadership | Community Building • Public Speaking • Digital Literacy Campaigns |
 
 ---
-
 <!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                         -->
+<!--          CERTIFICATIONS & PROFESSIONAL CREDENTIALS         -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
+# 🏅 Certifications & Professional Credentials
 
-<p align="center">
+> *Committed to continuous learning and professional development in Cybersecurity, Artificial Intelligence, Networking, Linux, and Digital Technologies.*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Digital-Eselsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digital-Eselsa&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🔐 Cybersecurity
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Google-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Cisco-Certified%20Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🐧 Linux
 
-<p align="center">
+<p>
 
-<img src="https://streak-stats.demolab.com?user=Digital-Eselsa&theme=tokyonight&hide_border=true"/>
+<a href="#">
+<img src="https://img.shields.io/badge/NDG-Linux%20Essentials-1793D1?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Digital-Eselsa&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🤖 Artificial Intelligence
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Digital-Eselsa&theme=tokyo-night&hide_border=true"/>
+<a href="#">
+<img src="https://img.shields.io/badge/ALX-AI%20Career%20Essentials-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Microsoft-AI%20Skills-5E5E5E?style=for-the-badge&logo=microsoft"/>
+</a>
 
 </p>
 
+---
 
+## 💼 Professional Development
 
+<p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/ALX-Virtual%20Assistant-000000?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HSE-Level%201-success?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HSE-Level%202-yellow?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HSE-Level%203-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Professional Memberships & Communities
+
+<p>
+
+<img src="https://img.shields.io/badge/ICANN-Anti--Phishing%20Volunteer-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/MindTheGap-Anambra%20Community%20Manager-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Webstack-Director%20of%20Training-0B8457?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎓 Learning Journey
+
+```text
+✔ Google Cybersecurity Professional Certificate
+
+✔ Cisco Certified CyberOps Associate
+
+✔ Cisco Certified Network Technician
+
+✔ Cisco Ethical Hacker
+
+✔ Linux Essentials (NDG & Cisco)
+
+✔ ALX AI Career Essentials
+
+✔ ALX Virtual Assistant
+
+✔ Microsoft AI Learning
+
+✔ HSE Levels 1–3
+
+✔ ICANN Anti-Phishing Volunteer
+
+🚀 Currently pursuing advanced skills in:
+
+• SOC Operations
+• Threat Hunting
+• Cloud Security
+• Security Automation
+• AI for Cybersecurity
+• Digital Forensics
+```
+
+---
 # 🚀 Currently Working On
 
 - 🔐 Building Cybersecurity Labs
