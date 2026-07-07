@@ -56,3 +56,34 @@ Cybersecurity Analyst • AI Enthusiast • Tech Educator • Community Leader
 <img src="https://img.shields.io/github/followers/Digital-Eselsa?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/Digital-Eselsa?affiliations=OWNER&style=for-the-badge"/>
 </p>
+# 👨🏾‍💻 About Me
+
+```yaml
+Name: Egwu Dennis Chigozie
+
+Location: Nigeria 🇳🇬
+
+Role:
+  - Cybersecurity Analyst
+  - Director of Training
+  - AI Enthusiast
+  - Community Manager
+  - Public Speaker
+
+Current Focus:
+  - Blue Team Security
+  - Penetration Testing
+  - Security Automation
+  - Digital Literacy
+  - Artificial Intelligence
+  - Open Source
+
+Communities:
+  - MindTheGap Anambra
+  - ICANN Anti-Phishing Ambassador
+  - Webstack ICT Global
+
+Mission:
+  Empowering Africans with practical digital skills,
+  cybersecurity knowledge and AI education.
+```
