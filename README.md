@@ -3,6 +3,9 @@
 <!-- ========================================================= -->
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Digital-Eselsa/Digital-Eselsa/main/Github%20Banner.png" alt="Digital Eselsa Banner" width="100%">
+</p>
+<p align="center">
   <img src="assets/banner.png" alt="GitHub Banner" width="100%">
 </p>
 
